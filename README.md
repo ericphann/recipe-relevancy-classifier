@@ -1,5 +1,5 @@
 # Recipe Relevancy Classifier
-Homework 2: Text Classification for DSBA 6188
+Homework 2: Text Classification for DSBA 6188  
 Group 6: Eric, Sydney, Jake, Kristen, Yaxin
 
 #### Included in this repo:
