@@ -4,6 +4,9 @@ Please see [the report](https://github.com/ericphann/recipe-relevancy-classifier
 
 🗣️ __Team__: Eric, Sydney, Jake, Kristen, Yaxin
 
+![Prodigy Example](https://github.com/ericphann/recipe-relevancy-classifier/blob/main/prodigy%20example.png)
+
+
 #### Included in this repo:
 - A writeup for the assignment (`Report.pdf`)
 - A proposal for a multi-class recipe problem (`Proposal.pdf`)
